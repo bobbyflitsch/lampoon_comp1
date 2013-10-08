@@ -1,0 +1,27 @@
+Bobby Flitsch
+
+Winthrop B-21 (Standish Hall)
+
+email: robertflitsch@college.harvard.edu
+
+Website link: http://www.hcs.harvard.edu/~kroks/osn/index.php
+
+Github link: 
+
+	HTTP --> https://github.com/bobbyflitsch/lampoon_comp1.git
+	SSH  --> git@github.com:bobbyflitsch/lampoon_comp1.git
+
+
+My website is the website for the "Obscure Sports Network". I have implemented 5 pages: the home page, a general sports page (displaying all the sports covered by the website as well as a few article links), a "watch" page consisting of a video of the day as well as other video clips (would be links), a page for a specific sport (I have chosen Quidditch), and a page containing an article.
+
+The home page is the index.php page. I have implemented a scoreboard that shows game scores from each sport. It may be updated by clicking and changing the sport, or by clicking an arrow to scroll through scores. I have also implemented a "main story" division that has an animated automatic carousel (may be stopped by clicking on a circle). Functional code also went into the search bar (which resets if blank and you click away) and the SPORTS link, which shows all the sports to chose from.
+
+The general sports and watch pages may be accessed from any page by the links at the top.
+
+The Quidditch page can be accessed by any page by hovering over the top sports link, and clicking quidditch, or by going to the sports page, and following the link from there.
+
+The article page may be accessed from the home page by following the title link (it is the 1st article on the carousel). It may also be accessed from the sports page by following the title link under Frisbee. It is the article titled: "Major League Ultimate On The Rise."
+
+Thanks and hope you enjoy the website! I got to put on a lot of content, the only part that is not completely filled is the scoreboard, which has filler scores in (but you can see that it's unique for each sport).
+
+There are no special setup instructions. Just follow the links.
